@@ -18,7 +18,7 @@ pipeline {
         account_id = ''
         project = 'roboshop'
         environment = ''
-        component = 'cart'
+        component = 'shipping'
     }
 
     stages {
@@ -85,3 +85,4 @@ pipeline {
         }
     }
 }
+
